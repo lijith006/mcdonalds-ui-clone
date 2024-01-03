@@ -1,0 +1,767 @@
+
+
+body{
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+
+
+.div_header{
+    background-color: rgb(253, 253, 253);
+    box-shadow: 2px 0px 2px 1px rgb(242, 240, 240);
+    
+    
+    height: 132.5px;
+    width: 100%;
+   
+}
+
+
+
+
+
+
+.fa-location-dot
+{
+    position: absolute;
+    font-size: 21px;
+    color: red;
+    margin-left: 356px;
+    /* background-color: yellow; */
+    /* margin-top: 0px; */
+    margin-top: 23px;
+}
+.fa-chevron-down{
+
+
+    position: absolute;
+    margin-top: 69px;
+    margin-left: 76px;
+    
+}
+
+
+.LocationText{
+    
+    
+    position: absolute;
+    margin-left: 1023px;
+    font-size: 13px;
+    margin-top: 29px;
+    float: right;
+
+}
+
+
+.OrderNow{
+    float: right;
+    margin-right: 12.6%;
+    margin-top: 10px;
+    background-color: rgb(255, 188, 13);
+    font-family: Speedee, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+    font-size: 15px;
+    border: none;
+    text-decoration: none;
+    text-decoration-line: none;
+    cursor: pointer;
+    color: rgb(41, 41, 41);
+    border-radius: 4px;
+    padding: 11px 25px;
+
+
+
+
+
+}
+.MainMenuButton{
+    font-family: Speedee, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+    
+    
+   
+    margin-left: 266px;
+    padding-top: 70px;
+    
+    
+    
+
+    
+    
+    
+
+}
+
+.Menubutton {
+    margin-left: 330px;
+    border: none;
+    color: black;
+    padding: 0px 0px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 8px -21px;
+    cursor: pointer;
+    font-family: Speedee, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+    border: none;
+    background-color: transparent;
+    margin-left: 58px;
+    margin-top: 14px;
+  
+  
+  
+  
+ 
+}
+
+
+
+
+
+.top-menu{
+    padding-right: 20px;
+    color: rgb(0, 0, 0);
+    
+    
+    
+}
+.image1{
+    position: absolute;
+    float: left;
+    width: 108px;
+    height: 108px;
+    margin-left: 10.3%;
+    margin-top: 18.5px;
+}
+
+.tablemenu{
+    margin-left: 330px;
+   
+    float: left;
+    margin-top: 65px;
+
+    
+    
+    
+    
+    
+    
+}
+.Languagetexttable{
+    float: left;
+    margin-left: 324px;
+    margin-top: 21px;
+    font-family: Speedee, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+    padding: 0px 40px 0px 0px;
+    font-size: 14px;
+}
+
+
+
+
+
+
+
+    
+   
+
+    
+
+
+.Text1 {
+    float: left;
+    margin-top: -25%;
+    margin-left: 64%;
+    
+    font-size: 24px;
+    font-family: Speedee, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+    
+    
+}
+
+.TextTheSquish {
+    float: left;
+    margin-top: -16%;
+    margin-left: 0%;
+    font-size: 16px;
+    font-family: Speedee, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+
+
+
+}
+
+
+
+
+
+
+.Text2{
+    float: left;
+    margin-left: 64%;
+    font-size: 11px;
+    margin-top: -85px;
+    color: black;
+    font-family: Speedee, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+
+
+}
+
+.image2{
+    margin-left: 5.5%;
+    margin-top: 51px;
+}
+
+
+.button2{
+    
+    color: black;
+    background-color: #ffbc0d;
+    border-radius: 4px;
+    padding: 10px;
+    text-align: center;
+    display: inline-block;
+    border: none;
+    cursor: pointer;   
+    color: #292929;
+    font-family: Speedee, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+    text-decoration: none;
+    text-decoration-line: none;
+    margin-left: 64%;
+    width: 181px;
+    height: 48px;
+    margin-top: 26px;
+    font-size: 15px;
+
+    
+}
+
+.middleimage{
+    
+    margin-left: 159px;
+    margin-top: 129px;
+
+}
+
+
+.textYourOutfit{
+    margin-left: 940px;
+    margin-top: -360px;
+    font-size: 23px;
+    font-family: Speedee, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+}
+
+
+.TheKerwinFrost{ 
+    margin-left: 941px;
+    margin-top: -15px;
+    font-size: 15px;
+    font-family: Speedee, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+
+}
+
+.AtParticipatingtext{
+    float: left;
+    margin-left: 64%;
+    font-size: 11px;
+    margin-top: 8px;
+    color: black;
+    font-family: Speedee, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+
+
+
+}
+
+.OrderintheApp{
+    color: black;
+    background-color: #ffbc0d;
+    border-radius: 4px;
+    padding: 10px;
+    text-align: center;
+    display: inline-block;
+    border: none;
+    cursor: pointer;
+    
+    color: #292929;
+    font-family: Speedee, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+    text-decoration: none;
+    text-decoration-line: none;
+    margin-left: 64%;
+    width: 181px;
+    height: 48px;
+    margin-top: 26px;
+    font-size: 15px;
+}
+
+
+
+.middleimage2{
+    margin-left: 159px;
+    margin-top: 129px;
+
+
+}
+
+
+.StepIntotheWorld{
+    float: left;
+    margin-top: -25%;
+    margin-left: 64%;
+    
+    font-size: 24px;
+    font-family: Speedee, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+
+}
+
+.GetapairofMcDonald{
+    margin-left: 943px;
+    margin-top: -236px;
+    font-size: 15px;
+    font-family: Speedee, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+
+}
+
+
+
+.Whilesupplies{
+    float: left;
+    margin-left: 64%;
+    font-size: 11px;
+    margin-top: -15px;
+    color: black;
+    font-family: Speedee, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+
+}
+
+.ShopTheCollabeNow{
+    color: black;
+    background-color: #ffbc0d;
+    border-radius: 4px;
+    padding: 10px;
+    text-align: center;
+    display: inline-block;
+    border: none;
+    cursor: pointer;
+    
+    color: #292929;
+    font-family: Speedee, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+    text-decoration: none;
+    text-decoration-line: none;
+    margin-left: 64%;
+    width: 181px;
+    height: 48px;
+    margin-top: 26px;
+    font-size: 15px;
+
+}
+
+.middleimage3{
+    margin-left: 159px;
+    margin-top: 129px;
+    
+    
+
+
+}
+.FreeLarge{
+    float: left;
+    margin-top: -25%;
+    margin-left: 64%;
+    
+    font-size: 24px;
+    font-family: Speedee, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+
+
+}
+.DownloadtheMc{
+    margin-left: 943px;
+    margin-top: -236px;
+    font-size: 15px;
+    font-family: Speedee, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+
+}
+.Offervalid{
+    float: left;
+    margin-left: 64%;
+    font-size: 11px;
+    margin-top: -109px;
+    color: black;
+    font-family: Speedee, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+
+
+}
+
+.GetFreeFriesInTheApp {
+    color: black;
+    background-color: #ffbc0d;
+    border-radius: 4px;
+    /* padding: 8px; */
+    text-align: center;
+    display: inline-block;
+    border: none;
+    color: rgb(41, 41, 41);
+    font-family: Speedee, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+    text-decoration: none;
+    /* margin-left: 63%; */
+    width: 198px;
+    height: 48px;
+    margin-top: -16px;
+    font-size: 15px;
+    float: right;
+    margin-right: 332px;
+    cursor: pointer;
+}
+
+
+
+.middleimage4{
+    margin-left: 159px;
+    margin-top: 129px;
+    
+
+}
+
+
+.ScoreFreeFood{
+    float: left;
+    margin-top: -25%;
+    margin-left: 64%;
+    
+    font-size: 24px;
+    font-family: Speedee, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+
+
+}
+.EarnMyMcDonaldRewards{
+    margin-left: 943px;
+    margin-top: -236px;
+    font-size: 15px;
+    font-family: Speedee, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+
+}
+
+.Atparticipating2{
+    float: left;
+    margin-left: 64%;
+    font-size: 11px;
+    margin-top: -109px;
+    color: black;
+    font-family: Speedee, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+
+}
+.EarnPointswithMcDelivery{
+    color: black;
+    background-color: #ffbc0d;
+    border-radius: 4px;
+    /* padding: 8px; */
+    text-align: center;
+    display: inline-block;
+    border: none;
+    color: rgb(41, 41, 41);
+    font-family: Speedee, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+    text-decoration: none;
+    /* margin-left: 63%; */
+    width: 223px;
+    height: 47px;
+    margin-top: -16px;
+    font-size: 15px;
+    float: right;
+    margin-right: 309px;
+    cursor: pointer;
+
+}
+.middleimage5{
+    margin-left: 159px;
+    margin-top: 129px;
+
+}
+
+.Black{
+    float: left;
+    margin-top: -25%;
+    margin-left: 64%;
+    
+    font-size: 24px;
+    font-family: Speedee, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+
+}
+.McDonaldPartnership{
+
+    margin-left: 943px;
+    margin-top: -236px;
+    font-size: 15px;
+    font-family: Speedee, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+}
+
+.LearnMoreButton{
+    color: black;
+    background-color: #ffbc0d;
+    border-radius: 4px;
+    padding: 10px;
+    text-align: center;
+    display: inline-block;
+    border: none;
+    
+    color: #292929;
+    font-family: Speedee, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+    text-decoration: none;
+    text-decoration-line: none;
+    margin-left: 0%;
+    width: 181px;
+    height: 48px;
+    margin-top: 26px;
+    font-size: 15px;
+    cursor: pointer;
+
+}
+.middleimage6{
+    margin-right: 566px;
+    margin-top: 136px;
+    float: right;
+
+}
+
+.New{
+    float: left;
+    margin-top: -71%;
+    margin-right: 8%;
+    font-size: 24px;
+    
+    
+    font-family: Speedee, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+
+}
+
+
+.WeNowPrepWhen{
+    margin-right: 0%;
+    /* margin-top: 94%; */
+    font-size: 15px;
+    font-family: Speedee, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+    position: absolute;
+    margin-block: 299px;
+}
+
+.Atparticipating3{
+    float: right;
+    margin-right: 73%;
+    font-size: 11px;
+    margin-top: -127px;
+    color: black;
+    font-family: Speedee, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+
+}
+
+.OrderAheadintheApp{
+    color: black;
+    background-color: #ffbc0d;
+    border-radius: 4px;
+    padding: 7px;
+    text-align: center;
+    display: inline-block;
+    border: none;
+    color: #292929;
+    font-family: Speedee, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+    text-decoration: none;
+    text-decoration-line: none;
+    margin-left: 0%;
+    width: 181px;
+    height: 48px;
+    margin-top: 505px;
+    font-size: 15px;
+    position: absolute;
+    cursor: pointer;
+
+
+}
+.imageLast{
+    margin-right: 566px;
+    margin-top: 136px;
+    float: right;
+
+}
+.DealsforDays{
+    float: left;
+    margin-top: -71%;
+    margin-right: 8%;
+    font-size: 24px;
+    
+    
+    font-family: Speedee, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+
+}
+.Getexclusive{
+    margin-right: 0%;
+    /* margin-top: 94%; */
+    font-size: 15px;
+    font-family: Speedee, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+    position: absolute;
+    margin-block: 709px;
+
+}
+.MobileOrder{
+    float: right;
+    margin-right: 54%;
+    font-size: 11px;
+    margin-top: -209px;
+    color: black;
+    font-family: Speedee, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+
+}
+.GetAppDeals{
+    color: black;
+    background-color: #ffbc0d;
+    border-radius: 4px;
+    padding: 7px;
+    text-align: center;
+    display: inline-block;
+    border: none;
+    color: #292929;
+    font-family: Speedee, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+    text-decoration: none;
+    text-decoration-line: none;
+    margin-left: 2px;
+    width: 181px;
+    height: 48px;
+    margin-top: 860px;
+    font-size: 15px;
+    position: absolute;
+    cursor: pointer;
+
+
+}
+
+
+
+.bottom-list{
+    
+    list-style: none;
+    float: left;
+    margin-left: 126px;
+    font-size: 15px;
+    font-weight: normal;
+    
+
+
+
+
+}
+.div-ul{
+    margin-top: 1119px; 
+    height: 700px;
+
+}
+#head-ul{
+    font-weight: bold;
+    margin-bottom: 20px;
+
+}
+li{
+    margin-bottom: 10px;
+}
+
+
+.icons{
+    display: flex;
+    gap: 25px;
+    float: left 20px;
+    padding-left: 18%;
+    float: left;
+    margin-top: 77px;
+    margin-left: -88px;
+}
+
+.app{
+    display: flex;
+    gap: 25px;
+    float: left 20px;
+    padding-left: 18%;
+    float: left;
+    margin-top: 77px;
+    margin-left: 252px;
+
+}
+    
+.line{
+    display: block;
+    margin-left: 136px;
+    padding-bottom: 0px;
+    border-width: 1px;
+    width: 84%;
+    margin-bottom: 0px;
+    margin-right: auto;
+    margin-top: 525px;
+    position: absolute;
+}
+
+.footerdata{
+    margin-top: 5px;
+    float: left;
+    margin-left: 5px;
+    padding-left: 5px;
+    margin-right: 50px;
+
+    
+}
+.div-footerdata{
+    float: left;
+    margin-left: 161px;
+    margin-top: -126px;
+}
+
+.footer-logo{
+    width: 32px;
+    height: 29px;
+    float: right;
+    margin-right: 445px;
+    margin-top: -126px;
+    
+}
+.footerText{
+    float: right;
+    margin-right: 142px;
+    margin-top: -119px;
+    font-size: 15px;
+    font-weight: lighter;
+}
+
+
+
+
+    
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
